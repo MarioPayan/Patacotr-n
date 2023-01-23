@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.05222f3c.js",
-    "static/js/787.29918221.chunk.js": "/static/js/787.29918221.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.05222f3c.js.map": "/static/js/main.05222f3c.js.map",
-    "787.29918221.chunk.js.map": "/static/js/787.29918221.chunk.js.map"
+    "main.css": "/Patacotron/static/css/main.e6c13ad2.css",
+    "main.js": "/Patacotron/static/js/main.a2efc900.js",
+    "static/js/787.29918221.chunk.js": "/Patacotron/static/js/787.29918221.chunk.js",
+    "index.html": "/Patacotron/index.html",
+    "main.e6c13ad2.css.map": "/Patacotron/static/css/main.e6c13ad2.css.map",
+    "main.a2efc900.js.map": "/Patacotron/static/js/main.a2efc900.js.map",
+    "787.29918221.chunk.js.map": "/Patacotron/static/js/787.29918221.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05222f3c.js"
+    "static/js/main.a2efc900.js"
   ]
 }
